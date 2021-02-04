@@ -66,7 +66,7 @@
             $name = $row['name'];
             session_start();
             $_SESSION['adminname'] =$name;
-            redirect('Admin/admin_dashboard.php'); 
+            redirect('Admin/index.php'); 
           }
           else{
             echo "<script>alert('Invalid Admin Phone/Password')</script>";
