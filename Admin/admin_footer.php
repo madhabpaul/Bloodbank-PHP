@@ -5,7 +5,7 @@
 </style>
 </div>
 <div>
-<footer id="footer" style="background: transparent; text-align: center; padding-bottom: 20px; color: white;">
+<footer id="footer" style="background: #222831; text-align: center; padding-bottom: 20px; padding-top: 20px; color: white;">
     <div class="text-center">
         <h5> FOLLOW US ON</h5>
         <i class="fab fa-facebook fa-lg"></i>

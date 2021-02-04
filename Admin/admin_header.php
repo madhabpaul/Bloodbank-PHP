@@ -38,13 +38,13 @@ else{
 
 <div class="content" >
 
-  <div style="background: #FF3E3E; padding-left: 150px; margin-bottom: 0px;">
+  <div style="background: #f05454; margin-bottom: 0px;">
     <div class="container">
-    <img src="images/slogan3.png"  >
+    <img src="images/slogan3.png"  width="100%" height="auto">
     </div>
   </div>
 
-<nav class="navbar navbar-expand-lg navbar-dark " style="background: #F90000">
+<nav class="navbar navbar-expand-lg navbar-dark " style="background: #30475e">
 <div class="container">
   <a class="navbar-brand" href=""><img src="images/logo4.png" height="35px" width="80px"></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
@@ -54,7 +54,7 @@ else{
   <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
     <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
       <li class="nav-item ">
-        <a class="nav-link" href="admin_dashboard.php">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="admin_blood_request.php">Requests</a>
